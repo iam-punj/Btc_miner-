@@ -1,0 +1,17 @@
+﻿  main.cpp
+  miner.cpp
+C:\Users\91975\Desktop\BitcoinMiner-main\BitcoinMiner-main\miner.cpp(95,27): warning C4244: 'initializing': conversion from '_Rep' to 'long', possible loss of data
+C:\Users\91975\Desktop\BitcoinMiner-main\BitcoinMiner-main\miner.cpp(95,27): warning C4244:         with
+C:\Users\91975\Desktop\BitcoinMiner-main\BitcoinMiner-main\miner.cpp(95,27): warning C4244:         [
+C:\Users\91975\Desktop\BitcoinMiner-main\BitcoinMiner-main\miner.cpp(95,27): warning C4244:             _Rep=__int64
+C:\Users\91975\Desktop\BitcoinMiner-main\BitcoinMiner-main\miner.cpp(95,27): warning C4244:         ]
+C:\Users\91975\Desktop\BitcoinMiner-main\BitcoinMiner-main\miner.cpp(97,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  sha256.cpp
+  util.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 38 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Miner.vcxproj -> C:\Users\91975\source\repos\Miner\x64\Release\Miner.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
